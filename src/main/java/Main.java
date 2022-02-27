@@ -1,6 +1,4 @@
 import java.util.Scanner;
-
-import static com.sun.org.apache.xalan.internal.xsltc.compiler.util.Type.Int;
 import static java.lang.Integer.parseInt;
 
 public class Main {

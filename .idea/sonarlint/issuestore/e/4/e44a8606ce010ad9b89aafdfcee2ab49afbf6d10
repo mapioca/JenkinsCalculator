@@ -1,0 +1,13 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ºý“´úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¨¢¤Õþÿÿÿÿ
+J	java:S108")Either remove or fill this block of code.(¥–„³ÿÿÿÿÿ8ðí£Íó/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(­÷·Ú
+<	java:S131""Add a default case to this switch.(ë´åÝþÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(àôªÚ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(þâýÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(æÿ‰¾
+M	java:S106$"9Replace this use of System.out or System.err by a logger.(ÌÓè
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(ÎŠÙç
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(íÔ«ý
